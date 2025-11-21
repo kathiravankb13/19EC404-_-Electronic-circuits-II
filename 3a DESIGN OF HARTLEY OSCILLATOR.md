@@ -16,12 +16,14 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|   42.40V   |    20ms      |     49.95hz          |      50hz              |
 
 # Graph
+![WhatsApp Image 2025-11-21 at 18 40 14_4ecfd526](https://github.com/user-attachments/assets/9fcfbed6-941d-44a9-9235-ce6741818ce6)
 
 
 # Sample images 
+![WhatsApp Image 2025-11-21 at 18 51 14_ab6f7b56](https://github.com/user-attachments/assets/302955c9-14ef-4f89-ab60-8cb21ecf1827)
 
 
 # Result
